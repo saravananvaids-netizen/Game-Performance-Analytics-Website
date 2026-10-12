@@ -1,0 +1,6 @@
+{
+  "name": "GameVision AI",
+  "description": "Intelligent Game Performance Analytics & Esports AI Coaching Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
